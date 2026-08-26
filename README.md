@@ -87,4 +87,19 @@ Sou apaixonado por tecnologia e programação, e este GitHub é o espaço onde c
     src="https://github-readme-stats-1-eight-iota.vercel.app/api/top-langs/?username=xrmedeiros2223&count_private=true&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff"
   />
 </p>
+<picture align="center">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/xrmedeiros2223/xrmedeiros2223/gh-pages/github-contribution-grid-snake-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/xrmedeiros2223/xrmedeiros2223/gh-pages/github-contribution-grid-snake.svg"
+  >
+  <img
+    align="center"
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/xrmedeiros2223/xrmedeiros2223/gh-pages/github-contribution-grid-snake.svg"
+  >
+</picture>
 ```
