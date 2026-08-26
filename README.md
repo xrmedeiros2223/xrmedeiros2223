@@ -90,7 +90,6 @@ Sou apaixonado por tecnologia e programação, e este GitHub é o espaço onde c
 
 <br clear="both"/>
 
-  />
 </p>
 
 <picture align="center">
