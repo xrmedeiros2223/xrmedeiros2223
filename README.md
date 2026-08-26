@@ -6,8 +6,9 @@
 
 #
 
-Me chamo Paulo Queiroz, tenho 24 anos e sou natural do Rio de Janeiro. Atualmente curso Análise e Desenvolvimento de Sistemas na FIAP. Sou apaixonado por tecnologia, curioso sobre Hardware e compartilho meu conhecimento através do
-meu canal no YouTube "[PauloDev](https://www.youtube.com/@paulopontodev)".
+Sou Gabriel Medeiros, tenho 19 anos, sou natural de São Paulo e estudo tecnologia pela Alura, com foco em desenvolvimento de software e Engenharia de Software.
+
+Sou apaixonado por tecnologia e programação, e este GitHub é o espaço onde compartilho meus projetos, estudos, experimentos e minha evolução como desenvolvedor.
  
 #
 
