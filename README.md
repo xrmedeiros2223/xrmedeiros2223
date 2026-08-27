@@ -84,7 +84,7 @@ Sou apaixonado por tecnologia e programação, e este GitHub é o espaço onde c
     align="left"
     alt="GitHub Stats"
     height="200"
-    src="https://github-readme-stats-1-eight-iota.vercel.app/api/top-langs/?username=xrmedeiros2223&count_private=true&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&v=2"
+    src="https://github-readme-stats-1-eight-iota.vercel.app/api/top-langs/?username=xrmedeiros2223&count_private=true&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&v=5"
   />
 </p>
 
